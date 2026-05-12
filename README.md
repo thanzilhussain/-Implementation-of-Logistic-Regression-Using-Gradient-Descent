@@ -20,7 +20,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Program:
 
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+Program to implement the the Logistic Regression Using Gradient Descent.
 
 Developed by: THANZIL HUSSAIN A
 
